@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <h1>Olá, React</h1>
       <p>Bem vindo</p>
-      <img src={url} alt=""></img>
     </div>
   )
 }
